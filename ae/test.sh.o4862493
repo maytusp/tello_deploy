@@ -1,0 +1,5 @@
+device cuda:0
+DONE
+before (224, 224, 3)
+after (256, 256, 3)
+decode (224, 224, 3)
